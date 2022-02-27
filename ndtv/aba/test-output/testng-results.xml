@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-26T19:19:57 IST" name="Default suite" finished-at="2022-02-26T19:20:42 IST" duration-ms="44776">
+    <groups>
+    </groups>
+    <test started-at="2022-02-26T19:19:57 IST" name="Default test" finished-at="2022-02-26T19:20:42 IST" duration-ms="44776">
+      <class name="testNG.Test_NDTV">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testNG.Test_NDTV@59fd97a8]" started-at="2022-02-26T19:19:57 IST" name="setUp" finished-at="2022-02-26T19:20:05 IST" duration-ms="7694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="google_SearchTest()[pri:0, instance:testNG.Test_NDTV@59fd97a8]" started-at="2022-02-26T19:20:05 IST" name="google_SearchTest" finished-at="2022-02-26T19:20:36 IST" duration-ms="31041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google_SearchTest -->
+        <test-method signature="ndtv_HomePageTest()[pri:1, instance:testNG.Test_NDTV@59fd97a8]" started-at="2022-02-26T19:20:36 IST" name="ndtv_HomePageTest" finished-at="2022-02-26T19:20:38 IST" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ndtv_HomePageTest -->
+        <test-method signature="operation_Test()[pri:2, instance:testNG.Test_NDTV@59fd97a8]" started-at="2022-02-26T19:20:38 IST" name="operation_Test" finished-at="2022-02-26T19:20:42 IST" duration-ms="4400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation_Test -->
+      </class> <!-- testNG.Test_NDTV -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
